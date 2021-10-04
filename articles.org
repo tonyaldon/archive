@@ -1,6 +1,43 @@
 #+TITLE: Articles
 #+AUTHOR: Tony aldon
 
+* [2019-09-06 Mon] Mon premier cahier d'écriture
+
+La lecture et l'écriture sont les piliers de l'éducation de nos
+enfants.
+
+Quand nous éducons nos enfants nous devons souhaiter les voir
+libres.  Nous devons réaliser que ce qui est important, ce n'est pas
+tant ce qu'ils apprennent mais bien qu'ils aient les outils pour
+apprendre seul efficacement un jour.  Nous devons souhaiter
+qu'apprendre soit toujours un bonheur pour eux et même que ce soit un
+art de vivre.
+
+N'oublions pas que le jour où nous arrêtons d'apprendre, nous arrêtons
+de vivre.
+
+- Je souhaite voir nos enfants libres.
+- Je souhaite voir nos enfants capables de nous contredire demain.
+- Je souhaite voir nos enfants capables de se construire eux mêmes la
+  trajectoire qui leur convient.
+
+J'ai commencé à écrire *Mon premier cahier d'écriture* pour mon enfant
+avant de réaliser que je l'écrivais pour moi.  Je pensais que le thème,
+c'était l'écriture.
+
+- Aujourd'hui, il me semble que j'ai réalisé ce travail pour nos
+  enfants.
+- Aujourd'hui, oui, nos enfants apprendront à écrire avec *Mon premier
+  cahier d'écriture*, mais n'apprendront-ils que cela.
+- Aujourd'hui /ce cahier/ ne m'appartient plus, et j'espère que nos
+  enfants se l'approprieront avec joie et enthousiasme.
+
+Il est maintenant disponible gratuitement.  Retrouve toutes les leçons
+d'écriture [[./mon-premier-cahier-d-ecriture-tony-aldon.pdf]]
+
+→ Je suis sûr que tu connais au moins un ami qui pourrait être
+intéressé par ce cahier.  Vas-y, partage-le ;) ←
+
 * [2019-08-23 Mon] Trois conseils pour apprendre l'espagnol
 
 [[./images/trois-conseils-pour-apprendre-l-espagnol-nieves.jpeg]]
@@ -132,7 +169,6 @@ un jour amoureux de cette madrilène, de ma femme.
 
 ps: Vous avez certainement un ami qui pourrait bénéficier de ces
 conseils, n'hésitez pas à lui partager l'article.
-
 
 * [2019-05-12 Sun] Des hauts et des bas
 
