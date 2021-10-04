@@ -1,7 +1,142 @@
 #+TITLE: Articles
 #+AUTHOR: Tony aldon
 
+* [2019-08-23 Mon] Trois conseils pour apprendre l'espagnol
+
+[[./images/trois-conseils-pour-apprendre-l-espagnol-nieves.jpeg]]
+
+¿Quieres agüita?
+
+Ce sont les premiers mots qu'elle prononça à mon réveil.  Nous avions
+passé une nuit incroyable dans les rues d'un Madrid en fête et nous
+nous étions endormis dans sa chambre le vent presque frais du matin
+caressant nos visages.
+
+Ce n'est qu'après qu'elle eut répété la question deux fois, puis
+changer par ¿Quieres agua? (Tu veux de l'eau?) que je la compris.  Bien
+sûr que je voulais de l'eau, il faisait déjà plus de 30 degrés dans
+les rues de Madrid.
+
+J'ai déménagé à Madrid pour vivre avec elle et depuis peu nous sommes
+mariés.  Le cours des choses ne cessent de me surprendre, et je n'en
+reviens toujours pas que le simple fait d'avoir un jours décidé
+d'apprendre l'espagnol me rendrait tan heureux.
+
+Je souhaite ici, partager avec vous trois conseils pratiques qui m'ont
+permis d'apprendre l'espagnol.
+
+Mais avant de les énoncer, je veux rappeler que ces conseils ne sont
+ni magiques, ni exclusifs.  Il est certain, que si je n'avais pas
+rencontré cette superbe madrilène, que je ne vivais pas entouré
+d'espagnol en Espagne, que si je n'embrassais pas de tout mon cœur la
+culture espagnol, que si je n'avais pas une envie hardante de parler
+parfaitement espagnol et de comprendre parfaitement les espagnols, mon
+niveau ne serait pas ce qu'il est aujourd'hui.
+
+Donc ne nous mentons pas, apprendre une nouvelle langue et se sentir à
+l'aise avec celle-ci requiert du temps, de l'investissement, de la
+passion et de l'amour.
+
+Cependant, tout au long de ce chemin à la découverte de cette langue
+et de cette culture, j'ai bénéficié des trois conseils suivants que
+tous je pense, nous pouvons suivre.
+
+1.  Lire sans le dictionnaire
+
+Il est important de lire car cela permet de voir le langage en action,
+de s'approprier des tournures classiques, de sentir le rythme du
+langage.
+
+Peut-être avez vous déjà essayé de lire des livres en espagnol, mais
+vous êtes arrêtés après la deuxième ou troisième page fatigué de buter
+sur des mots que vous ne connaissiez pas, fatigué de faire des
+allers-retours dans le dictionnaire.  La solution à ce problème, ou
+encore la bonne manière de lire, c'est de lire sans aller voir dans le
+dictionnaire ni s'arrêter au premier mot inconnu.  Souvent le contexte
+permet de comprendre.
+
+Essayez de lire et de comprendre sans consulter votre dictionnaire.  Au
+début c'est étrange, mais l'on finit par s'habituer, et avec le temps,
+on finit par vraiment comprendre ce que l'on lit et même on y prend
+plaisir.
+
+2.  Anki et le Bescherelle
+
+Le problème au tout début de l'apprentissage, c'est qu'il n'y a même
+pas une petite base sur laquelle s'appuyer.  Sans vocabulaire,
+difficile de faire des phrases.  Sans grammaire, difficile d'ordonner
+son vocabulaire pour en faire des phrases.  Sans conjugaison, difficile
+de vraiment donner le bon sens à nos phrases.
+
+Pour régler ce problème de la base, vous pouvez utiliser l'application
+[[https://apps.ankiweb.net/][Anki]]d, qui, par un système de carte recto/verso (agua/eau,
+rojo/rouge,…) et un algorithme décidant pour nous quand nous devons
+réviser nos cartes (si je connais bien une carte, la prochaine fois
+que je dois la réviser sera dans 3 ou 6 mois, voir plus selon
+l'historique de mes révisions, et si j'ai oublié la carte, elle me
+sera proposée le lendemain.), permet de manière efficace d'apprendre
+tout type de connaissance qui peut se présenter sous la forme de carte
+recto/verso.  Ce qui est parfait dans notre cas.
+
+Il ne vous reste maintenant qu'à choisir le jeu de cartes (deck Anki)
+que vous voulez mémoriser.  Pour ma part, comme je voulais mémoriser du
+vocabulaire, de la grammaire et la conjugaison, j'ai opté pour le
+[[https://m.bescherelle.com/bescherelle-poche-espagnol-9782218938337][Bescherelle Poche d'espagnol]].  J'ai donc créé le deck Anki du
+Bescherelle Poche d'espagnol afin de pouvoir le mémoriser.
+
+Si vous souhaitez le mémoriser vous aussi ou seulement jeter un œil,
+suivez le lien suivant: [[https://ankiweb.net/shared/info/766610510][Bescherelle Poche d'espagnol]].
+
+(Si vous souhaitez mémoriser aussi celui d'anglais, suivez le lien
+suivant: [[https://ankiweb.net/shared/info/1839182478][Bescherelle Poche d'anglais]].)
+
+Anki est vraiment très efficace, n'hésitez pas à l'utiliser et même à
+créer vos propres deck Anki.
+
+3.  La que se avecina
+
+Avec les deux conseils précédents mon niveau en espagnol était passé
+de, je ne comprends absolument rien (lorsque les espagnols disaient
+"¿Hola,qué tal?/Salut, ça va?", je pensais que "qué tal" était un
+prénom), à je peux lire des livres, suivre le journal télévisé, et
+avoir une conversation "simple" avec un espagnol.
+
+Mais j'étais totalement perdu lorsque les espagnols entre eux avaient
+une conversation, autour d'une bière et que personne ne se souciait de
+savoir si moi, français, je comprenais quelque chose.
+
+J'étais bloqué dans mon apprentissage et dans ma capacité à
+m'intégrer.  Ni Anki ni lire ne m'apportait de solutions.  C'est à ce
+moment que je découvris la série télévisée [[https://fr.wikipedia.org/wiki/La_que_se_avecina][La que se avecina]].  C'est
+une série espagnol, qui se passe dans un immeuble et qui raconte
+l'histoire de ses habitants.  Les épisodes sont courts (une vingtaine
+de minutes) et les acteurs parlent l'espagnol de tous les jours,
+chacun avec son accent, sa diction, ils parlent l'espagnol que je
+n'arrivais pas à comprendre, trop rapide, trop haché, le vrai espagnol
+parlé.
+
+Mon espagnol a considérablement progressé avec cette série.  C'est
+grâce à elle que j'ai pu suivre pour la première fois une conversation
+entre espagnols.
+
+Je vous la recommande donc vivement.
+
+conclusion
+
+Il y a maintenant presque 3 ans, j'ai appris mon premier mot
+d'espagnol avec Anki, j'ai commencé à lire des livres en espagnol que
+je ne comprenais pas, et à ce moment, jamais je n'aurais pensé tomber
+un jour amoureux de cette madrilène, de ma femme.
+
+*Vous aussi vous pouvez tenter l'aventure.  N'attendez plus!*
+
+ps: Vous avez certainement un ami qui pourrait bénéficier de ces
+conseils, n'hésitez pas à lui partager l'article.
+
+
 * [2019-05-12 Sun] Des hauts et des bas
+
+[[./images/des-hauts-et-des-bas-hijo-y-padre.jpeg]]
 
 Dans la vie, il y a des hauts et des bas.
 
